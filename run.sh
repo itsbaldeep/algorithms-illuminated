@@ -1,0 +1,1 @@
+gcc src/$1 && ./a.exe
